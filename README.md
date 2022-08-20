@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://i.ibb.co/FxJ2BdG/02b7bc373a5b9629117837e5cfec7d5a.jpg
+<img src="https://i.ibb.co/FxJ2BdG/02b7bc373a5b9629117837e5cfec7d5a.jpg"/>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
