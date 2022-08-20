@@ -1,7 +1,7 @@
 # `𝑭𝒂𝒏𝒕𝒂𝒔𝒎𝒂𝑩𝒐𝒕 - 𝑴𝒅 `
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/19894000000" target="blank"><img src="https://img.shields.io/badge/JHUSZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/19894000000" target="blank"><img src="https://img.shields.io/badge/Fantasma-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
