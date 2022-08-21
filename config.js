@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['19894000000', '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖 / 𝘾𝙧𝙚𝙖𝙙𝙤𝙧', true],
+  ['523221383036', 'juan / 𝘾𝙧𝙚𝙖𝙙𝙤𝙧', true],
 
 ] // Cambia los numeros que quieras
 global.suittag = ['19894000000'] 
